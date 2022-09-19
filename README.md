@@ -1,0 +1,3 @@
+# puppeteer-poc
+
+- `[GET]` /screenshots
